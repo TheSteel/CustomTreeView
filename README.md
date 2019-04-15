@@ -1,4 +1,7 @@
 # CustomTreeView for single column Tree
+
+Developed with Qt 5.12.0
+
 TreeView with following options:
 -Zooming (LCtrl + MouseWheel);
 -Drag'n'Drop;
