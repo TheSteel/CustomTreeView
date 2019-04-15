@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add.png</file>
+        <file>img/addsub.png</file>
+        <file>img/collapse.png</file>
+        <file>img/del.png</file>
+        <file>img/down.png</file>
+        <file>img/exit.png</file>
+        <file>img/expand.png</file>
+        <file>img/up.png</file>
+    </qresource>
+</RCC>
