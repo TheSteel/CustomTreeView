@@ -1,9 +1,9 @@
-# CustomTreeView for single column Tree
+# Custom TreeView for single column Tree model
 
 Developed with Qt 5.12.0
 
 TreeView with following options:
--Zooming (LCtrl + MouseWheel);
+-Zoom (LCtrl + MouseWheel);
 -Drag'n'Drop;
 -Sorting (by item name)
 
